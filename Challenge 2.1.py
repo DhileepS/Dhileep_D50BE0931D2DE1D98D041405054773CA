@@ -51,7 +51,7 @@ class BankAccount:
 
 if __name__== "__main__":
 
-    account1 = BankAccount("123456", "John Doe", 1000.0)
+    account1 = BankAccount("123456", "Dhileep", 1000.0)
 
 
     account1.deposit(500.0)
